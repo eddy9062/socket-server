@@ -1,4 +1,4 @@
-import { route } from "./classes/routes/route";
+import { route } from "./routes/route";
 import Server from "./classes/server"
 import bodyParser from "body-parser";
 import cors from "cors";
